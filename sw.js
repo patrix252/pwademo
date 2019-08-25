@@ -1,7 +1,5 @@
 var cacheName = 'pwademo';
 var filesToCache = [
-  './',
-  './index.html',
   './css/style.css',
   './js/main.js'
 ];
